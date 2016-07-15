@@ -1,3 +1,10 @@
+---
+layout: post
+title: In praise of static websites
+---
+
+
+
 ## Haiku
 
 *A static website*
